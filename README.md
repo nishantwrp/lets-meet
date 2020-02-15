@@ -30,7 +30,7 @@ Our submission consists of three repositories.
     - done
     - finalize
     
-  - [lets-meet-web-app](https://github.com/nishantwrp/lets-meet-web-app/)
+ - [lets-meet-web-app](https://github.com/nishantwrp/lets-meet-web-app/)
     - <b>Overview</b>: This respository consists of the code of the frontend web app that can be used to manage meetups and tasks assigned with the help of the slack bot.
     - <b>Technical Stack</b>: Django
     - <b>Deployment</b>: The app is hosted using heroku [here](http://lets-meet-web-app.herokuapp.com/).
